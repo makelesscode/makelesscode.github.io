@@ -1,0 +1,3 @@
+[submodule "autoquiz"]
+	path = autoquiz
+	url = https://github.com/makelesscode/autoquiz
